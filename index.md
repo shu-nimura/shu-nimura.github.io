@@ -1,8 +1,6 @@
 # Shu Nimura
 
-PhD Student, Nagoya University
-
-I am a doctoral student at Nagoya University under the supervision of Akira Ishii.
+I am a PhD student at Nagoya University under the supervision of Akira Ishii.
 
 My research interests include
 
