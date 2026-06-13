@@ -2,15 +2,19 @@
 
 PhD Student, Nagoya University
 
-## Research Interests
+I am a doctoral student in algebraic geometry at Nagoya University under the supervision of Akira Ishii.
 
-- McKay correspondence
+My research interests include
+
 - Derived categories
+- McKay correspondence
 - Bridgeland stability conditions
 - Birational geometry
+- Moduli space of representations of an algebra
 
-## Links
+## Navigation
 
+- Research
 - Publications
 - Talks
 - CV
