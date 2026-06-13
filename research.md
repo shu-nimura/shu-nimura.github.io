@@ -6,5 +6,4 @@ Current topics include
 
 - Derived McKay correspondence
 - Bridgeland stability conditions
-- Reflection groups
-- Birational geometry
+- Moduli space of representations of an algebra
