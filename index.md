@@ -1,5 +1,3 @@
-# Shu Nimura
-
 I am a PhD student at Nagoya University under the supervision of Akira Ishii.
 
 My research interests include
@@ -10,11 +8,6 @@ My research interests include
 - Birational geometry
 - Moduli space of representations of an algebra
 
-## Navigation
-
-- [Papers](papers.md)
-- [Talks](talks.md)
-  
 ## Links
 
 - arXiv
