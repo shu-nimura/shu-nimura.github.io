@@ -1,0 +1,6 @@
+title: Shu Nimura
+theme: minima
+
+header_pages:
+  - publications.md
+  - talks.md
